@@ -68,7 +68,7 @@ export const App = () => {
                   style={paperStyle}
                   variant={'outlined'}
                >
-                  <Typography style={centeredTextStyle}>Your one-stop shop for everything about Adam Nathaniel Davis:</Typography>
+                  <Typography style={centeredTextStyle}>Your one-stop shop for everything about Adam Nathaniel Davis</Typography>
                   <br/>
                   <Typography style={sectionTextStyle}>Worldbuilding:</Typography>
                   <Card
