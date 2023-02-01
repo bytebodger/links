@@ -108,6 +108,26 @@ export const App = () => {
                      </Typography>
                   </Card>
                   <Divider style={dividerStyle}/>
+                  <Typography style={sectionTextStyle}>Paintings:</Typography>
+                  <Card
+                     raised={true}
+                     style={cardStyle}
+                  >
+                     <Typography style={textStyle}>
+                        #BlobLife
+                     </Typography>
+                     <Typography style={smallerTextStyle}>
+                        Finished works and in-progress photos
+                        <br/>
+                        <a
+                           href={'https://photos.app.goo.gl/L1ij8QfCsSwpX3VdA'}
+                           style={linkStyle}
+                        >
+                           https://photos.app.goo.gl/L1ij8QfCsSwpX3VdA
+                        </a>
+                     </Typography>
+                  </Card>
+                  <Divider style={dividerStyle}/>
                   <Typography style={sectionTextStyle}>Long-Form Fiction:</Typography>
                   <Card
                      raised={true}
