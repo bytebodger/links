@@ -208,7 +208,7 @@ export const App = () => {
                      </Typography>
                      <Typography style={smallerTextStyle}>
                         <a
-                           href={'https://docs.google.com/document/d/1XUz4JJXkM1AxFSmDX9qSWYQG0ZuLWCy--8Jc44Aiy30'}
+                           href={'https://docs.google.com/document/d/1ZxoJNsI_N_ZbJu1LVOo6YPR75-zlK_OBCJZgBU9rv_4'}
                            style={linkStyle}
                         >
                            https://docs.google.com/document/d/1XUz4JJXkM1AxFSmDX9qSWYQG0ZuLWCy--8Jc44Aiy30
@@ -224,7 +224,7 @@ export const App = () => {
                      </Typography>
                      <Typography style={smallerTextStyle}>
                         <a
-                           href={'https://docs.google.com/document/d/1ZxoJNsI_N_ZbJu1LVOo6YPR75-zlK_OBCJZgBU9rv_4'}
+                           href={'https://docs.google.com/document/d/1XUz4JJXkM1AxFSmDX9qSWYQG0ZuLWCy--8Jc44Aiy30'}
                            style={linkStyle}
                         >
                            https://docs.google.com/document/d/1ZxoJNsI_N_ZbJu1LVOo6YPR75-zlK_OBCJZgBU9rv_4
