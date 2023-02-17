@@ -642,24 +642,6 @@ export const App = () => {
                      style={cardStyle}
                   >
                      <Typography style={textStyle}>
-                        Professional Profile
-                     </Typography>
-                     <Typography style={smallerTextStyle}>
-                        CV for Adam Nathaniel Davis
-                        <br/>
-                        <a
-                           href={'https://www.adamdavis.codes'}
-                           style={linkStyle}
-                        >
-                           https://www.adamdavis.codes
-                        </a>
-                     </Typography>
-                  </Card>
-                  <Card
-                     raised={true}
-                     style={cardStyle}
-                  >
-                     <Typography style={textStyle}>
                         Dev.to
                      </Typography>
                      <Typography style={smallerTextStyle}>
@@ -714,10 +696,48 @@ export const App = () => {
                      style={cardStyle}
                   >
                      <Typography style={textStyle}>
+                        LinkedIn
+                     </Typography>
+                     <Typography style={smallerTextStyle}>
+                        My LinkedIn profile
+                        <br/>
+                        <a
+                           href={'https://www.linkedin.com/in/bytebodger'}
+                           style={linkStyle}
+                        >
+                           https://www.linkedin.com/in/bytebodger
+                        </a>
+                     </Typography>
+                  </Card>
+                  <Divider style={dividerStyle}/>
+                  <Typography style={sectionTextStyle}>Apps/Sites:</Typography>
+                  <Card
+                     raised={true}
+                     style={cardStyle}
+                  >
+                     <Typography style={textStyle}>
+                        Professional Profile
+                     </Typography>
+                     <Typography style={smallerTextStyle}>
+                        CV for Adam Nathaniel Davis
+                        <br/>
+                        <a
+                           href={'https://www.adamdavis.codes'}
+                           style={linkStyle}
+                        >
+                           https://www.adamdavis.codes
+                        </a>
+                     </Typography>
+                  </Card>
+                  <Card
+                     raised={true}
+                     style={cardStyle}
+                  >
+                     <Typography style={textStyle}>
                         Spotify Toolz
                      </Typography>
                      <Typography style={smallerTextStyle}>
-                        My free and public utility for managing Spotify playlists
+                        A free public utility for managing Spotify playlists
                         <br/>
                         <a
                            href={'https://www.spotifytoolz.com'}
@@ -732,16 +752,16 @@ export const App = () => {
                      style={cardStyle}
                   >
                      <Typography style={textStyle}>
-                        LinkedIn
+                        Paint Map Studio
                      </Typography>
                      <Typography style={smallerTextStyle}>
-                        My LinkedIn profile
+                        A free public utility for mapping colors in digital images to paints
                         <br/>
                         <a
-                           href={'https://www.linkedin.com/in/bytebodger'}
+                           href={'https://www.paintmap.studio/'}
                            style={linkStyle}
                         >
-                           https://www.linkedin.com/in/bytebodger
+                           https://www.paintmap.studio/
                         </a>
                      </Typography>
                   </Card>
