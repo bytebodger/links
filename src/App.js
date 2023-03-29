@@ -190,52 +190,14 @@ export const App = () => {
                      style={cardStyle}
                   >
                      <Typography style={textStyle}>
-                        OK, Sierra
+                        Shared Google Drive folder of plays
                      </Typography>
                      <Typography style={smallerTextStyle}>
-                        Play, science fiction, dystopian
-                        <br/>
                         <a
-                           href={'https://docs.google.com/document/d/13X6NYD9ZLfZ4FyAL_JmF74w7YTfgHD6z'}
+                           href={'https://drive.google.com/drive/folders/14ZPNQMNvtVPCK8Csa3rjuJHJ741AQFr-'}
                            style={linkStyle}
                         >
-                           https://docs.google.com/document/d/13X6NYD9ZLfZ4FyAL_JmF74w7YTfgHD6z
-                        </a>
-                     </Typography>
-                  </Card>
-                  <Card
-                     raised={true}
-                     style={cardStyle}
-                  >
-                     <Typography style={textStyle}>
-                        Into the Swamp
-                     </Typography>
-                     <Typography style={smallerTextStyle}>
-                        Play, absurdist
-                        <br/>
-                        <a
-                           href={'https://docs.google.com/document/d/1A1dG-5CnP0bn79VMgkkmzWrZRf1MNlawT_StNofpfmM'}
-                           style={linkStyle}
-                        >
-                           https://docs.google.com/document/d/1A1dG-5CnP0bn79VMgkkmzWrZRf1MNlawT_StNofpfmM
-                        </a>
-                     </Typography>
-                  </Card>
-                  <Card
-                     raised={true}
-                     style={cardStyle}
-                  >
-                     <Typography style={textStyle}>
-                        The Marionette
-                     </Typography>
-                     <Typography style={smallerTextStyle}>
-                        Play, science fiction
-                        <br/>
-                        <a
-                           href={'https://docs.google.com/document/d/1PE-u210TP6VsoAqsB4KxqTIOy_dKWbpr'}
-                           style={linkStyle}
-                        >
-                           https://docs.google.com/document/d/1PE-u210TP6VsoAqsB4KxqTIOy_dKWbpr
+                           https://drive.google.com/drive/folders/14ZPNQMNvtVPCK8Csa3rjuJHJ741AQFr-
                         </a>
                      </Typography>
                   </Card>
