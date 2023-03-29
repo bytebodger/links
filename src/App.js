@@ -166,68 +166,20 @@ export const App = () => {
                      </Typography>
                   </Card>
                   <Divider style={dividerStyle}/>
-                  <Typography style={sectionTextStyle}>Short Fiction:</Typography>
+                  <Typography style={sectionTextStyle}>Short Fiction & Essays:</Typography>
                   <Card
                      raised={true}
                      style={cardStyle}
                   >
                      <Typography style={textStyle}>
-                        COVID
+                        Shared Google Drive folder of short stories and essays
                      </Typography>
                      <Typography style={smallerTextStyle}>
                         <a
-                           href={'https://docs.google.com/document/d/1aHj0mInDffaOKGYDrhMkviSjZKmlsTZBn9tQJkTGo1k'}
+                           href={'https://drive.google.com/drive/folders/17tG40ZvYRRNBiQlbget6BJjOIRbQETf-'}
                            style={linkStyle}
                         >
-                           https://docs.google.com/document/d/1aHj0mInDffaOKGYDrhMkviSjZKmlsTZBn9tQJkTGo1k
-                        </a>
-                     </Typography>
-                  </Card>
-                  <Card
-                     raised={true}
-                     style={cardStyle}
-                  >
-                     <Typography style={textStyle}>
-                        Fractal Dreams
-                     </Typography>
-                     <Typography style={smallerTextStyle}>
-                        <a
-                           href={'https://docs.google.com/document/d/1c-rxMbWm43eIPaYomGH3HD-OCMLHT8eUb1WJvbCFKzU'}
-                           style={linkStyle}
-                        >
-                           https://docs.google.com/document/d/1c-rxMbWm43eIPaYomGH3HD-OCMLHT8eUb1WJvbCFKzU
-                        </a>
-                     </Typography>
-                  </Card>
-                  <Card
-                     raised={true}
-                     style={cardStyle}
-                  >
-                     <Typography style={textStyle}>
-                        The Republic of Mushlandia
-                     </Typography>
-                     <Typography style={smallerTextStyle}>
-                        <a
-                           href={'https://docs.google.com/document/d/1ZxoJNsI_N_ZbJu1LVOo6YPR75-zlK_OBCJZgBU9rv_4'}
-                           style={linkStyle}
-                        >
-                           https://docs.google.com/document/d/1XUz4JJXkM1AxFSmDX9qSWYQG0ZuLWCy--8Jc44Aiy30
-                        </a>
-                     </Typography>
-                  </Card>
-                  <Card
-                     raised={true}
-                     style={cardStyle}
-                  >
-                     <Typography style={textStyle}>
-                        Time After Time
-                     </Typography>
-                     <Typography style={smallerTextStyle}>
-                        <a
-                           href={'https://docs.google.com/document/d/1XUz4JJXkM1AxFSmDX9qSWYQG0ZuLWCy--8Jc44Aiy30'}
-                           style={linkStyle}
-                        >
-                           https://docs.google.com/document/d/1ZxoJNsI_N_ZbJu1LVOo6YPR75-zlK_OBCJZgBU9rv_4
+                           https://drive.google.com/drive/folders/17tG40ZvYRRNBiQlbget6BJjOIRbQETf-
                         </a>
                      </Typography>
                   </Card>
