@@ -410,16 +410,16 @@ export const App = () => {
                      style={cardStyle}
                   >
                      <Typography style={textStyle}>
-                        Spotify Toolz
+                        playlist.help
                      </Typography>
                      <Typography style={smallerTextStyle}>
                         A free public utility for managing Spotify playlists
                         <br/>
                         <a
-                           href={'https://www.spotifytoolz.com'}
+                           href={'https://playlist.help'}
                            style={linkStyle}
                         >
-                           https://www.spotifytoolz.com
+                           https://playlist.help
                         </a>
                      </Typography>
                   </Card>
