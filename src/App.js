@@ -70,6 +70,26 @@ export const App = () => {
                >
                   <Typography style={centeredTextStyle}>Your one-stop shop for everything about Adam Nathaniel Davis</Typography>
                   <br/>
+                  <Typography style={sectionTextStyle}>YouTube:</Typography>
+                  <Card
+                      raised={true}
+                      style={cardStyle}
+                  >
+                     <Typography style={textStyle}>
+                        Skepticus
+                     </Typography>
+                     <Typography style={smallerTextStyle}>
+                        Everything you never wanted to know about atheism and the abject horrors of modern religion
+                        <br/>
+                        <a
+                            href={'https://www.youtube.com/@Skepticus.Channel'}
+                            style={linkStyle}
+                        >
+                           https://www.youtube.com/@Skepticus.Channel
+                        </a>
+                     </Typography>
+                  </Card>
+                  <Divider style={dividerStyle}/>
                   <Typography style={sectionTextStyle}>Worldbuilding:</Typography>
                   <Card
                      raised={true}
